@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\bryce\AndroidStudioProjects\Snake\app\build\intermediates\pre-dexed\debug\classes-464b30f6775f596bfd6038791b9715848e315129.jar"
+        jar="C:\Users\bryce\AndroidStudioProjects\Snake\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa"/>
+    <item
+        dex="C:\Users\bryce\AndroidStudioProjects\Snake\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b6f59a738cf7689bdc6d9229395acd11ddee9768.jar"
+        jar="C:\Users\bryce\AppData\Local\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
